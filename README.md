@@ -30,10 +30,10 @@ python main.py
 Visualize the effects of our speech enhancement techniques through these spectrograms:
 
 Original Audio Spectrogram
-![Speech Recognition Screenshot](images/spec.png.png)
+![Speech Recognition Screenshot](images/spec.png)
 
 Filtered Audio Spectrogram
-![Speech Recognition Screenshot](images/specfilt.png.png)
+![Speech Recognition Screenshot](images/specfilt.png)
 
 Spectral Subtracted Audio Spectrogram
 ![Speech Recognition Screenshot](images/reduced.png)
